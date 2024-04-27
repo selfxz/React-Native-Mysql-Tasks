@@ -18,54 +18,52 @@ This project is a task application built with React Native and MySQL. The backen
 
 First, clone the repository:
 
-\`\`\`bash
+```
 git clone https://github.com/selfxz/React-Native-Mysql-Tasks.git
-\`\`\`
+```
 
-### Backend
+# Backend
 
 To set up and run the backend:
 
-1. Navigate to the backend directory:
+> 1. Navigate to the backend directory:
+> ```
+>  cd backend
+> ```
 
-    \`\`\`bash
-    cd backend
-    \`\`\`
+>2. Install the dependencies:
+>```
+> npm i
+>```
 
-2. Install the dependencies:
+> [!IMPORTANT]
+> 3. Clone the `.env` file and fill in the necessary data.
+> >
 
-    \`\`\`bash
-    npm i
-    \`\`\`
+>4. Run the backend:
+> ```
+> npm start
+> ```
 
-3. **Important**: Clone the `.env` file and fill in the necessary data.
-
-4. Run the backend:
-
-    \`\`\`bash
-    npm start
-    \`\`\`
-
-### Frontend
+# Frontend
 
 To set up and run the frontend:
 
-1. Navigate to the frontend directory:
+> 1. Navigate to the frontend directory:
+>```
+>cd my-app
+>```
 
-    \`\`\`bash
-    cd my-app
-    \`\`\`
+> 2. Install the dependencies:
+>```
+>   npm i
+>    ```
 
-2. Install the dependencies:
+> [!IMPORTANT]
+> 3. Open the Android Studio emulator or scan the QR code in the Expo app.
+> 
 
-    \`\`\`bash
-    npm i
-    \`\`\`
-
-3. **Important**: Open the Android Studio emulator or scan the QR code in the Expo app.
-
-4. Run the frontend:
-
-    \`\`\`bash
-    npm start
-    \`\`\`
+> 4. Run the frontend:
+> ```
+>   npm start
+> ```
