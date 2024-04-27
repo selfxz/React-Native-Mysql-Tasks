@@ -1,0 +1,38 @@
+# REACT NATIVE
+### RN REST API
+### Stack & Tools
+* Express
+* MySQL
+* Babel
+* Swagger 
+* Cors
+* Nodemon
+* Dotenv
+* EsLint
+* Android studio
+### clone repository
+##
+```
+git clone https://github.com/selfxz/React-Native-Mysql-Tasks.git
+```
+
+> #BACKEND
+> ### Enter Backend
+> ``` cd backend ```
+> ### Install dependencies
+> ``` npm i ```
+>[!IMPORTANT]
+> clonar el archivo .env y llenar los datos necesarios
+> ### Run Backend
+> ``` npm start ```
+
+> #Frontend
+> ### Enter Frontend
+> ``` cd my-app ```
+> ### Install dependencies
+> ``` npm i ```
+> [!IMPORTANT]
+> Abrir el emulador de android studio o
+> escanear el qr en la app de expo
+> ### Run Frontend
+> ``` npm start ```
